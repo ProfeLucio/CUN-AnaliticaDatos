@@ -44,6 +44,5 @@ Cada script está diseñado para ejecutarse de manera independiente, pero se rec
 %run nombre_del_script.py
 ```
 
-## 🤝 Contacto y Contribuciones
-Si deseas aportar mejoras al análisis o tienes dudas sobre los scripts, puedes contactarnos o contribuir con mejoras en **GitHub**.
+
 
